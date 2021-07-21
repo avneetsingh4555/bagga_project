@@ -1,0 +1,237 @@
+.select_location li img{
+    height: 20px;
+    padding: 0px 10px;
+}
+.header_right a{
+    font-weight: 700;
+    color: white;
+}
+.main_nav li{
+    /* padding: 0px 40px; */
+}
+/* .main_nav > li {
+    float: left;
+    position: relative;
+  } */
+.navbar-nav .active a {
+    background-color: #053555 !important;
+    /* bottom: -10px; */
+    content: " ";
+    /* left: 0; */
+    /* position: absolute; */
+    /* right: 0; */
+    color: white !important;
+    border-radius: 4px;
+  }  
+.navbar-nav .active span {
+   color: white;
+  }  
+.navbar-nav .active i{
+   color: white;
+  }  
+
+.banner_background{
+    background-image: url('../img/Group\ 70.png');
+    height: 65vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer-social i{
+    padding: 0px 5px;
+}
+.owl-cus .card{
+    border: none;
+}
+
+.useful-links a,.footer a{
+    color: white;
+    text-decoration: none;
+}
+.useful-links li{
+    padding: 5px 0px;
+}
+
+.main_nav a{
+   font-weight: 700 !important;
+   color: #053555 !important;
+}
+.cart-btn button{
+    padding: 10px 35px;
+    /* background-color: #053555; */
+}
+
+.banner_background .search-col{
+    margin-top: 145px;
+}
+.banner_background .col-md-12 select{
+    padding:14px 40px ;
+     border: none; 
+     color: #0a627c; 
+     font-weight: 700; 
+}
+.banner_background .col-md-12 input{
+    margin-left: -5px; 
+    padding: 15px 120px;
+     border: none;
+}
+.banner_background .col-md-12 button{
+    padding: 15px 40px;
+    margin-left: -5%;
+    border: none; 
+    background-color: #0a627c; 
+    color: white;
+    font-size: 15px;
+}
+
+
+@media (max-width: 480px){
+    .banner_background .col-md-12 input{
+        margin-left: -5px; 
+        padding: 20px 80px;
+         border: none;
+    }
+    .banner_background{
+        margin: 0;
+        padding: 0;
+        height: auto;
+    }
+    .banner-text{
+        margin-top: 5px;
+    }
+    .banner_background .search-col{
+        margin-top: 65px;
+    }
+    .footer .col{
+        width: 100%;
+    }
+}
+ .owl-cus .owl-nav > div {
+    margin-top: -26px;
+    position: absolute;
+    top: 50%;
+    color: #cdcbcd;
+  } 
+ 
+  
+  .owl-cus .owl-nav i {
+    font-size: 52px;
+  }
+  
+  .owl-cus  .owl-nav .owl-prev {
+    left: -2px;
+   
+  }
+  
+  .owl-cus  .owl-nav .owl-next {
+    right: -2px;
+  }
+  .owl-cus .owl-carousel .item {
+    position: relative;
+    z-index: 100; 
+    
+  }
+  .featured-slider .owl-stage{
+    /* transform: translate3d(-590px, 0px, 0px) !important; */
+    /* width: 1800px !important; */
+  }
+  .own-owl 
+  
+.main-banner-slider .owl-stage-outer{
+    /* padding: 25px; */
+}
+/* .main-banner-slider .owl-item{
+   border: 2px solid red;
+} */
+
+
+.banner-text{
+    margin-top: 50px;
+}
+.banner-text h1{
+    margin: 0;
+}
+
+.search-row{
+    margin-right:0 !important;
+    margin-left:0 !important;
+}
+.owl-add .item{
+    /* box-shadow: 10px 10px 6px #888888; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ /* border: 1px solid #888888; */
+    /* padding: -25px; */
+    margin: 10px;
+}
+.new-items .card-body{
+    padding: 0 !important;
+}
+.new-items .owl-carousel{
+    padding: 0 !important;
+}
+.new-items .owl-nav{
+    display: none !important;
+}
+.featured-slider .owl-item{
+    width: 185px !important;
+}
+.owl-cus .owl-nav i{
+    color: black;
+    font-size: 14px;
+    margin: 5px;
+    padding: 6px 8px;
+    /* background: #D6D6D6; */
+    display: inline-block;
+    cursor: pointer;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border: 1px solid #d6d6d6;
+}
+.owl-cus .owl-nav i:hover{
+  background: #053555;
+  color: white;
+}
+
+ .padding{
+
+    padding-top: 60px;
+    background-color: #fff;
+    
+} 
+
+.iconss{
+    color:#053555;
+  /* margin-left: 70px;  */
+}
+.single-contact-address{
+    margin: 0px 50px;
+}
+.bill-btn5:hover{
+    background-color:white;
+    color:#053555;
+    box-shadow: 0 0 0 2px #053555;
+
+}
+.detail-add .col-md-12{
+    padding: 20px 0px;
+}
+
+.add{
+    color:white;
+    background-color: #053555;
+    padding:10px 10px;
+}
+
+.add:hover{
+
+    background-color:white;
+    color:#053555;
+    box-shadow: 0 0 0 2px #053555;
+}
+
+
+
+
+
